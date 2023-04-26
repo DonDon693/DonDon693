@@ -1,7 +1,7 @@
 <h1>Hi, I'm Donato! <br/><a href="https://github.com/DonDon693">CyberSecurity Enthusiast</a>
 
 <h2> 💻 Cyber Security Projects:</h2>
-- [<b>AZURE CLOUD HONEYPOT AND SOC PROJECT</b>](https://github.com/DonDon693/BUILDING-A-SOC-AND-HONEYPOT-IN-AZURE)
+- [AZURE CLOUD HONEYPOT AND SOC PROJECT](https://github.com/DonDon693/BUILDING-A-SOC-AND-HONEYPOT-IN-AZURE)
 
 
 <h2> 🤳 Connect with me:</h2>
