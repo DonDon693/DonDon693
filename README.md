@@ -1,7 +1,7 @@
 <h1>Hi, I'm Donato! <br/><a href="https://github.com/DonDon693">CyberSecurity Enthusiast</a>
 
 <h2> 💻 Cyber Security Projects:</h2>
-<a href="https://github.com/DonDon693/AZURE-CLOUD-HONEYPOT-AND-SOC)"> Azure Cloud Honeypt & SOC Project</a>
+<a href="https://github.com/DonDon693/AZURE-CLOUD-HONEYPOT-AND-SOC"> Azure Cloud Honeypt & SOC Project</a>
   
   <a href="https://docs.google.com/presentation/d/1mMv_FrAjvNcSdTFs2eYA2TY9RLvHTmxt3anXJ71R8Lg/edit?usp=sharing"> Splunk Log Analysis</a>
 
