@@ -3,7 +3,7 @@
 <h2> 💻 Cyber Security Projects:</h2>
 <a href="https://github.com/DonDon693/AZURE-CLOUD-HONEYPOT-AND-SOC"> Azure Cloud Honeypt & SOC Project</a>
   
-  <a href="https://docs.google.com/presentation/d/1mMv_FrAjvNcSdTFs2eYA2TY9RLvHTmxt3anXJ71R8Lg/edit?usp=sharing"> Splunk Log Analysis</a>
+  <a href="https://docs.google.com/presentation/d/1vZUqXOVA5twxAbmjq6wKguAbiWddZAxbsu4MOyWbjzo/edit?usp=sharing"> Splunk Log Analysis</a>
 
 
 <h2> 🤳 Connect with me:</h2>
