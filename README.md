@@ -1,5 +1,5 @@
-<h1>Hi, I'm Donato Leal!
-<h3>I Love to learning about CyberSecurity, Networking, and Programming and I'd love to show you some of the projects I've done.</h3>
+<h1>Hi, I'm Don!
+<h3>I love to learning about CyberSecurity, Networking, and Programming and I'd love to show you some of the projects I've done.</h3>
 
 <h2> 💻 Cyber Security Projects:</h2>
 <a href="https://github.com/DonDon693/Microsoft-Azure-SOC-and-HoneyNet"> Microsoft Azure SOC and HoneyNet <br /></a>
